@@ -92,7 +92,6 @@ def main
     rank :min, root_node
   end
 
-
   # single slash.
   s_1s = KVUrler.get_by_slashes(2)
   unless s_1s.empty?
