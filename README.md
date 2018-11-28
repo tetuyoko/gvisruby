@@ -1,6 +1,8 @@
 ## About
- ElastiSearchに送っているAccesslogをdownloadし
- graphvizをかけて経路間のアクセス状況を可視化する
+ Accesslogにgraphvizをかけて経路間のアクセス状況を可視化する
+
+
+![](https://raw.githubusercontent.com/tetuyoko/gvisruby/master/images/ruby.png)
 
 ## Install
 
